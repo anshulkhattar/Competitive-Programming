@@ -13,7 +13,7 @@ Steps to be followed:
     ### Problem Name ###
     ### Problem Code ###
 4. Before comitting make sure that your code works.
-
+5. The codes can be in any language you like.
 
 
 # ** Happy Coding **
