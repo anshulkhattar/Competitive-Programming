@@ -1,7 +1,7 @@
 
-### 		CODECHEF  		###
-### Problem Name: FlatLand  ###
-### Problem Code: ICL1902  ###
+//	CODECHEF
+//	FlatLand  
+//	ICL1902  
 
 
 #include<iostream>
