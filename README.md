@@ -3,7 +3,7 @@ The repository contains competitive programming questions i practiced.
 
 I'll be updating the repository daily by new questions from various platforms like codechef, hackerrank , etc.
 
-#For Contribution:
+## For Contribution:
 You can make your code contributions by creating a folder with your name and adding your code files to it.
 Steps to be followed:
 1. Create a new branch for comitting your codes , your branch would be merged if no conflicts exists.
